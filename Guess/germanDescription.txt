@@ -1,0 +1,9 @@
+@relation germanBank
+@attribute StatusAccount {11, 12, 14, 13}
+@attribute DurationMonth integer [4, 72]
+@attribute CreditHistory {34, 32, 33, 30, 31}
+@attribute StatusAndSex {93, 92, 91, 94}
+@attribute Guarantors {101, 103, 102}
+@attribute Telephone {192, 191}
+@attribute ForeignWorker {A201, A202}
+@class Customer {1,2}

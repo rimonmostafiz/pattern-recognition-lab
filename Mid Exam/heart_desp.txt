@@ -1,0 +1,8 @@
+@relation heartDisease
+
+@attribute Age [25, 80]
+@attribute Sex {0,1}
+@attribute Pain {1,2,3,4}
+@attribute BloodPressure [90, 200]
+
+@class heartDiseasePresence {0,1}
